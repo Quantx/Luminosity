@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.luminosity.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\sdeutsc\\Luminosity\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Luminosity [Testing]"
+        }
+      }
+    }
+  ]
+}
